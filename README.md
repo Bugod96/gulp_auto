@@ -1,5 +1,7 @@
-# gulp_auto
+# Gulp Basics
 
-Using gulp.js to automate my workflow.
-
-※ Run it work on Linux side if you are using WSL2. The working directory has to be on the Linux side.
+Automating workflow using Gulp.js because everyone hates webpack.
+- pug
+- img
+- scss
+- js
